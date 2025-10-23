@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  poc-app:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-10-23T11:38:34.051816987Z"
+    description: A simple Node.js POC app
+    digest: 812bb4b7a039e600ffb909a40a3ec88ce6d73ef927b2068afe623fd8b0bb2272
+    name: poc-app
+    type: application
+    urls:
+    - https://github.com/sonu-96/helm-charts.git/poc-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-10-23T11:38:34.047298511Z"
