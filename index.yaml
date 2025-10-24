@@ -9,6 +9,6 @@ entries:
     name: poc-app
     type: application
     urls:
-    - https://github.com/sonu-96/helm-charts.git/poc-app-0.1.0.tgz
+    - https://sonu-96.github.io/helm-charts/poc-app-0.1.0.tgz
     version: 0.1.0
 generated: "2025-10-23T11:38:34.047298511Z"
